@@ -1,0 +1,17 @@
+h1{
+    background-color: pink;
+    border-color: blue;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 20 px;
+}
+pre{
+    border-bottom: 3px solid  rgb(221, 40, 40);
+    border-top: 3px solid rgb(9, 9, 238);
+    border-left: 3px dotted rgb(219, 31, 93);
+    border-right: 3px dotted rgb(234, 145, 29);
+    border-radius: 20 px;
+
+
+    background-color: aquamarine;
+}
