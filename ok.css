@@ -1,0 +1,20 @@
+body{
+    margin:0px
+}
+.box{
+    
+    border: 5px solid;
+    font-size: 5em;
+    width: 250 px;
+    height: 250 px;
+    margin:auto;
+
+}
+#box1{
+    background-color: hsl(0, 73%, 44%);
+    
+
+}
+#box2{
+    background-color: hsl(300, 78%, 44%);
+}
